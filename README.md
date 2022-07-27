@@ -4,4 +4,4 @@ In this example, you can learn and understand, how we can define redux in our pr
 
 ***
 
-Demo: https://reactjs-redux-basic-example.vercel.app/
+Demo - https://reactjs-redux-basic-example.vercel.app/
