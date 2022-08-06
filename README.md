@@ -1,4 +1,4 @@
-# ReactJs Redux Basic Example
+# ReactJS Redux Basic Example
 
 In this example, you can learn and understand, how we can define redux in our project and how it's working.
 
